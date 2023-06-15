@@ -1,2 +1,11 @@
-#!/bin/bash
-int main() { puts("Programming is like building a multilingual puzzle\n"); return 0; }
+#include <studio.h>
+/**
+*main - entry poit
+*return: always 0 (success)
+*/
+int main(void)
+{
+	puts("\"Programming is like building a multilingual puzzle"); 
+	return(0);
+
+}	
